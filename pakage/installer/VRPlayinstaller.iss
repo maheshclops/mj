@@ -1,4 +1,4 @@
-#define MainFolder "E:\agent\BuildAgent\work\VRTrack\package\VRTrack"
+#define MainFolder "C:\Users\Vizexperts\Desktop\teamcity\VRTrack"
 
 #define MyAppName "VRPlay"
 #define MyAppVersion "1.0"
@@ -12,7 +12,7 @@
 
 [ISSI]
 ;; Name of the bitmap image:
-#define ISSI_SplashScreen "E:\agent\BuildAgent\work\VRTrack\package\VRTrack\Icons\SPLASH.bmp"
+#define ISSI_SplashScreen "C:\Users\Vizexperts\Desktop\teamcity\VRTrack\Icons\SPLASH.bmp"
 ;; Time in seconds:
 #define ISSI_SplashScreen_T 5
 ;; Image Width:
@@ -43,10 +43,10 @@ DisableProgramGroupPage=true
 
 ;DisableWelcomePage=no
 ;DisableDirPage=no
-SetupIconFile=E:\agent\BuildAgent\work\VRTrack\package\VRTrack\Icons\VRPlayAPP.ico
+SetupIconFile=C:\Users\Vizexperts\Desktop\teamcity\VRTrack\Icons\VRPlayAPP.ico
 
 
-OutputDir=E:\VRTrack\Installer
+OutputDir=C:\Users\Vizexperts\Desktop\teamcity
 OutputBaseFilename=VRPlaysetup
 Compression=lzma
 SolidCompression=yes
